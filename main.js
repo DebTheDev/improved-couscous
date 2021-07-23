@@ -63,7 +63,7 @@ var getPokemonData = (pokemon) => {
 
 searchBtn.addEventListener('click', () => getPokemonData(
   inputField.value.toLowerCase())
-  );
+);
 
 
 // <!-- Copyright (c) 2021 by oryam (https://codepen.io/oryamne/pen/vYKXbgZ)
