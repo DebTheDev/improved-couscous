@@ -8,9 +8,8 @@ NEED HELP? Practice developing your autonomy as a programmer. Use Google Search,
 
 DISCLAIMER: Completion of this workshop is no guarantee of admission into the Hack Reactor immersive program, nor does it have any influence in the admissions process.
 
-## Slides 
 ---
-The slide deck for this worshop can be found [here](https://docs.google.com/presentation/d/1MZfKpfNUuHD8Lhbxg58t6M7Q5RBBvewcoytuRV0N7ts/edit?usp=sharing).
+Description:Gotta Code 'Em All! - Pokedex Code-Along [Live-Online]
 
 
 ## Steps to for the JavaScript Implementation Of The Pokédex
